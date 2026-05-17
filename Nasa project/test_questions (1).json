@@ -1,0 +1,22 @@
+[
+    {
+      "question": "What was the primary objective of the Apollo 11 mission?",
+      "category": "overview"
+    },
+    {
+      "question": "What phrase did Jim Lovell use to report the emergency during Apollo 13?",
+      "category": "emergency"
+    },
+    {
+      "question": "What was determined to be the primary cause of the Challenger disaster?",
+      "category": "disaster analysis"
+    },
+    {
+      "question": "Who were the crew members on board the Apollo 11 lunar module?",
+      "category": "crew"
+    },
+    {
+      "question": "What specific technical failure caused the O-ring to fail on Challenger?",
+      "category": "technical"
+    }
+  ]
